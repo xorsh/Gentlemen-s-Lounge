@@ -196,9 +196,9 @@ hr {
 	margin-top: 0;
 }
 .gray-text { color: #9c9c9c; }
-.blue-text { color: #e848e5; }
+.blue-text { color: #fffffc; }
 .blue-bg {
-	background: #fffffc;
+	background: #e848e5;
 	color: white;
 }
 .ul-1 {
