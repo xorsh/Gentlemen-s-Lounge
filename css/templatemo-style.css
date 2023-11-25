@@ -185,7 +185,7 @@ hr {
 	margin-top: 0;
 }
 .section-title-underline-blue {
-	border-bottom: 2px solid #7d9c4a;
+	border-bottom: 2px solid #000001;
 	margin: 5px auto 0 auto;
 	width: 40px;
 }
@@ -210,7 +210,7 @@ hr {
 }
 .ul-1 li:before {
     content: "\2192";
-    color: #7d9c4a;
+    color: #000001;
     padding: 10px;
 }
 .btn-blue-gradient {
@@ -469,12 +469,12 @@ hr {
 	background-color: #baea6c;
 	width: 60%;
 }
-.dark-blue-bg { background-color: #7d9c4a; }
+.dark-blue-bg { background-color: #000001; }
 .blue-divider-bg-graphic {
-	background: #7d9c4a url(../img/header-lines.jpg) right center no-repeat;
+	background: #000001 url(../img/header-lines.jpg) right center no-repeat;
 	width: 10%;
 }
-footer { background: #4c6322; }
+footer { background: #000001; }
 .copyright-text {
 	color: #ccc;
 	padding-top: 15px;
