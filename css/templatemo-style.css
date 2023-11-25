@@ -142,7 +142,7 @@ hr {
 	background: #000001;
 	background: -webkit-gradient(left top, left bottom, color-stop(0%,#f2f2e4), color-stop(41%, #b7dd79), color-stop(100%, #000001));
 	background: -webkit-gradient(linear, left top, left bottom, from(#030303), color-stop(41%, #b7dd79), to(#b5d383));
-	background: -webkit-linear-gradient(top, #f2f2e4 0%, #4354bf 41%, #4354bf 100%);
+	background: -webkit-linear-gradient(top, #f2f2e4 0%, #030303 41%, #4354bf 100%);
 	background: linear-gradient(to bottom, rgba(D84465) 0%, rgba(D84465) 41%, rgba(D84465) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e3d10b', endColorstr='#e3d10b', GradientType=0 );
 	color: white;
