@@ -139,12 +139,12 @@ hr {
 }
 
 .welcome-container {
-	background: #baea6c;
-	background: -webkit-gradient(left top, left bottom, color-stop(0%, #baea6c), color-stop(41%, #b7dd79), color-stop(100%, #b5d383));
-	background: -webkit-gradient(linear, left top, left bottom, from(#baea6c), color-stop(41%, #b7dd79), to(#b5d383));
-	background: -webkit-linear-gradient(top, #baea6c 0%, #b7dd79 41%, #b5d383 100%);
+	background: #000001;
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, #000001), color-stop(41%, #b7dd79), color-stop(100%, #000001));
+	background: -webkit-gradient(linear, left top, left bottom, from(#000001), color-stop(41%, #b7dd79), to(#b5d383));
+	background: -webkit-linear-gradient(top, #000001 0%, #000001 41%, #000001 100%);
 	background: linear-gradient(to bottom, rgba(D84465) 0%, rgba(D84465) 41%, rgba(D84465) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cf0545', endColorstr='#cf0545', GradientType=0 );
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e3d10b', endColorstr='#e3d10b', GradientType=0 );
 	color: white;
 	padding-top: 20px;
 	padding-bottom: 20px;
