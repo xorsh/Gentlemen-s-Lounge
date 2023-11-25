@@ -471,7 +471,7 @@ hr {
 }
 .dark-blue-bg { background-color: #000001; }
 .blue-divider-bg-graphic {
-	background: #000001 url(../img/header-lines.jpg) right center no-repeat;
+	background: #000001; url(../img/header-lines.jpg) right center no-repeat;
 	width: 10%;
 }
 footer { background: #000001; }
