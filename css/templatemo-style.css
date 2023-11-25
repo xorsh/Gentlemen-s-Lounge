@@ -68,9 +68,9 @@ hr {
 	height: 90px;
 }
 .site-name-container {
-	background: #7d9c4a}
+	background: #000001;}
 .site-name {
-	color: #5e8d42;
+	color: #000001;
 	display: inline-block;
 	vertical-align: middle;
 	text-transform: uppercase;
@@ -83,7 +83,7 @@ hr {
 }
 .mobile-menu-icon { display: none; }
 .templatemo-nav-container {
-	background-color: #7d9c4a;
+	background-color: #000001;
 	display: -webkit-flex;
 	display: -ms-flexbox;
 	display: -webkit-box;
