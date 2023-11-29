@@ -115,7 +115,7 @@ hr {
 }
 .templatemo-nav li:hover,
 .templatemo-nav .active {
-	background: url(../images/newyellowbar.png) no-repeat;
+	background: url(../images/greynavbar.jpg) no-repeat;
 	background-size: contain;
 	color: rgb((253, 229, 7));
 }
