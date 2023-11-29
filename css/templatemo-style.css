@@ -1,5 +1,4 @@
 /* 
-
 Multi Profile
 http://www.templatemo.com/preview/templatemo_457_multi_profile
 
@@ -115,7 +114,7 @@ hr {
 }
 .templatemo-nav li:hover,
 .templatemo-nav .active {
-	background: url(../images/greynavbar.jpg) no-repeat;
+	background: url(../images/newgreynavbar.png) no-repeat;
 	background-size: contain;
 	color: rgb((253, 229, 7));
 }
