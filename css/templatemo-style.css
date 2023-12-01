@@ -118,7 +118,7 @@ hr {
 	background-size: contain;
 	color: rgb((253, 229, 7));
 }
-.templatemo-nav li:hover a { color: rgb(255,255,255); }
+.templatemo-nav li:hover a { color: rgb(0,0,0); }
 
 /* 3. Welcome Header */
 .header-img {
