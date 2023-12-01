@@ -93,7 +93,7 @@ hr {
 	        align-items: flex-end;
 }
 .templatemo-nav {
-	margin-left: 50px;
+	margin-left: 0px;
 	text-transform: uppercase;
 }
 .templatemo-nav ul { overflow: hidden; }
