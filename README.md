@@ -1,2 +1,2 @@
-# BreadcrumbsGentlemen-s-Lounge
+# Gentlemen-s-Lounge
 https://avelauw.github.io/Sparkle-Cleaner/
