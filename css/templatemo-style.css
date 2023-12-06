@@ -602,12 +602,6 @@ footer { background: #000001; }
 	margin-right: 0;
 	width: 100%;
 }
-.google-map-container {
-	border: 1px solid #ddd;
-	padding: 5px;
-}
-.google-map { height: 420px; }
-
 /* 12. Media Queries */
 @media screen and (max-width: 1199px) {
 	.site-logo { width: 12px; }
